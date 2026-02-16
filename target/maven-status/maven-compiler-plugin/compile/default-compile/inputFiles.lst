@@ -1,8 +1,0 @@
-C:\Programs\taskmanager\src\main\java\com\project\taskmanager\controller\TaskController.java
-C:\Programs\taskmanager\src\main\java\com\project\taskmanager\entity\Task.java
-C:\Programs\taskmanager\src\main\java\com\project\taskmanager\entity\TaskStatus.java
-C:\Programs\taskmanager\src\main\java\com\project\taskmanager\exception\GlobalExceptionHandler.java
-C:\Programs\taskmanager\src\main\java\com\project\taskmanager\exception\TaskNotFoundException.java
-C:\Programs\taskmanager\src\main\java\com\project\taskmanager\repository\TaskRepository.java
-C:\Programs\taskmanager\src\main\java\com\project\taskmanager\service\TaskService.java
-C:\Programs\taskmanager\src\main\java\com\project\taskmanager\TaskmanagerApplication.java
