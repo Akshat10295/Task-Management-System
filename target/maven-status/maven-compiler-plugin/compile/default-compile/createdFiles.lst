@@ -1,0 +1,8 @@
+com\project\taskmanager\controller\TaskController.class
+com\project\taskmanager\TaskmanagerApplication.class
+com\project\taskmanager\exception\TaskNotFoundException.class
+com\project\taskmanager\entity\TaskStatus.class
+com\project\taskmanager\entity\Task.class
+com\project\taskmanager\exception\GlobalExceptionHandler.class
+com\project\taskmanager\service\TaskService.class
+com\project\taskmanager\repository\TaskRepository.class
